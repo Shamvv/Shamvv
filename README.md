@@ -3,7 +3,7 @@
 ![snake gif](https://github.com/Shamvv/Shamvv/blob/output/github-contribution-grid-snake.gif)
 
 <details>
- <summary><i><b>Stats</b></i></summary>
+ <summary><i><b><h2>Stats</h2></b></i></summary>
 
  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shamvv&theme=monokai)
  
