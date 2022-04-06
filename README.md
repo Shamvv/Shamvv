@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/88976526/156935921-e02f5c2c-95d2-4746-9018-926d49dcf77b.png)
 
-![snake gif](https://github.com/Tianwenn/Tianwenn/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Shamvv/Shamvv/blob/output/github-contribution-grid-snake.gif)
 
 <details>
  <summary><i><b>Stats</b></i></summary>
