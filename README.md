@@ -6,7 +6,7 @@
  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="matlab" width="40" height="40"/>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="matlab" width="40" height="40"/>
  </p>
- 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shamvv&layout=compact&theme=monokai&border_radius=10&card_width=440&hide_border=true)](https://github.com/shamvv/github-readme-stats)
  
 <details>
  <summary><i><b><h2>Stats</h2></b></i></summary>
