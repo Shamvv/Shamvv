@@ -65,5 +65,6 @@
 
 <img src="https://64.media.tumblr.com/e1ed2d8dcafe9cd2394915b448e9965f/tumblr_plzi21evYS1we9f2ro1_r1_640.gifv" width="70" height="70" /> ![Github stats](https://github-readme-stats.vercel.app/api?username=Tianwenn&show_icons=true&theme=monokai&custom_title=OTHER_PROGRAMS&border_radius=10&hide=stars,commits,prs,issues,contribs&hide_rank=true&disable_animations=true&hide_border=true)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tianwenn&repo=CS50x&theme=dracula&border_radius=6&hide_border=true)](https://github.com/Tianwenn/CS50x)
+-->
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tianwenn&repo=CS50x&theme=dracula&border_radius=6&hide_border=true)](https://github.com/Tianwenn/CS50x)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tianwenn&repo=Website&theme=dracula&border_radius=6&hide_border=true)](https://github.com/Tianwenn/Website)-->
