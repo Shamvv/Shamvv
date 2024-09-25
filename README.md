@@ -3,6 +3,7 @@
 <!--![snake gif](https://github.com/Shamvv/Shamvv/blob/output/github-contribution-grid-snake.gif)<br>-->
 
 [![Shambhavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shamvv)](https://github.com/anuraghazra/github-readme-stats)
+![Stats](https://github-readme-stats.vercel.app/api?username=shamvv&show_icons=true)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shamvv&layout=compact&theme=monokai&border_radius=10&card_width=440&hide_border=true)](https://github.com/shamvv/github-readme-stats)
