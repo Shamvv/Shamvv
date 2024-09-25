@@ -6,12 +6,12 @@
     <tr>
       <td style="border: none; background-color: transparent;">
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api?username=shamvv&show_icons=true&theme=transparent" alt="Stats">
+          <img src="https://github-readme-stats.vercel.app/api?username=shamvv&show_icons=true&theme=darcula&border_radius=10&card_width=440&hide_border=true" alt="Stats">
         </a>
       </td>
       <td style="border: none; background-color: transparent;">
         <a href="https://github.com/shamvv/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamvv&layout=compact&theme=monokai&border_radius=10&card_width=440&hide_border=true" alt="Top Languages">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamvv&layout=compact&theme=darcula&border_radius=10&card_width=440&hide_border=true" alt="Top Languages">
         </a>
       </td>
     </tr>
